@@ -11,6 +11,6 @@ package com.mycompany.gitassignmentproject;
 public class GitAssignmentProject {
 
     public static void main(String[] args) {
-        System.out.println("Hello NetBeans (This is for the conflict-demo branch).");
+        System.out.println("Hello NetBeans (This is for the master branch).");
     }
 }
